@@ -1,0 +1,11 @@
+{
+  "name": "omar-repo-test",
+  "version": "1.0.0",
+  "description": "just testing",
+  "main": "repo-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Angelino",
+  "license": "ISC"
+}
